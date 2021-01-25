@@ -7,5 +7,6 @@ package com.rxj;
  * @version:1.0
  */
 public class Student {
-
+    private int id;
+    private int age;//
 }
